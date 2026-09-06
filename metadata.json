@@ -1,0 +1,6 @@
+{
+  "name": "TrustLoop AI",
+  "description": "Personal consumer decision journal analyzing marketing claims, supply chain transparency, and evaluating promise-to-outcome realities with Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
